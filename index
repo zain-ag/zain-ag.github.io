@@ -12,12 +12,12 @@
     <link rel="apple-touch-icon" href="https://zain-ag.github.io/images/assets/selectweb-icon.jpg">
     <meta name="apple-mobile-web-app-title" content="Select Web">
     <link href="/assets/bootstrap.min.css" rel="stylesheet">
-<!--不需要偷此css，保留此代码即可-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"><!--不需要偷此css，保留此代码即可-->
     <link href="/assets/ada.css" rel="stylesheet">
   </head>
   <body>
     <div id="header">
-      <div class="top"><a href="https://zackwong.github.io"><img alt="Select Web Logo" src="/images/assets/selectweb-logo.png"></a></div>
+      <div class="top"><a href="https://zain-ag.github.io"><img alt="Select Web Logo" src="/images/assets/selectweb-logo.png"></a></div>
       <nav class="navbar navbar-expand-lg navbar-light navbar-ada">
         <a class="navbar-brand" href="#"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,7 +25,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
           <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link" href="https://zackwong.github.io">首页</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://zain-ag.github.io">首页</a></li>
             <li class="dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="ueo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">UEO</a>
               <div class="dropdown-menu" aria-labelledby="ueo">
@@ -64,7 +64,7 @@
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="https://zain-ag.github.io/about/">Copyright © 2011-2018 Zack 保留所有权利</a></li>
                 <li class="list-inline-item"><a href="https://zain-ag.github.io/sitemap.xml">Sitemap</a></li>
-              </ul> 
+              </ul>
             </div>
           </div>
         </div>
